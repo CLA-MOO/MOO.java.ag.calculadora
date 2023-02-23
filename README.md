@@ -6,16 +6,16 @@ Proyecto Java con Autograding
 [Editor en línea](https://mermaid.live/)
 ```mermaid
 ---
-title: Clase
+title: Calculadora
 ---
 classDiagram
-      class Clase
+      class Calculadora
       Clase: -x
       Clase: -y
-      Clase: +op1()
-      Clase: +op2()
-      Clase: +op3()
-      Clase: +op4()
+      Clase: +suma()
+      Clase: +resta()
+      Clase: +multiplica()
+      Clase: +divide()
 ```
 [Referencia-Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
 
