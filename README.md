@@ -10,12 +10,12 @@ title: Calculadora
 ---
 classDiagram
       class Calculadora
-      Clase: -x
-      Clase: -y
-      Clase: +suma()
-      Clase: +resta()
-      Clase: +multiplica()
-      Clase: +divide()
+      Calculadora: -x
+      Calculadora: -y
+      Calculadora: +suma()
+      Calculadora: +resta()
+      Calculadora: +multiplica()
+      Calculadora: +divide()
 ```
 [Referencia-Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
 
