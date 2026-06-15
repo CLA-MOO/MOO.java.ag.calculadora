@@ -1,9 +1,0 @@
-tests:
-  - name: "Compiles cleanly"
-    setup: ""              # shell command to run BEFORE the test
-    run: "javac *.java"    # shell command whose exit code IS the test
-    input: ""              # piped to stdin of run
-    output: ""             # expected stdout (compared per the "comparison" field)
-    comparison: "included" # exact | included | regex
-    timeout: 30            # seconds before kill
-    points: 2

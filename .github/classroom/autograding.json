@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Compila",
+      "setup": "",
+      "run": "make test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 100
+    }
+  ]
+}
