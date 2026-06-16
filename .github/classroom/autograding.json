@@ -5,7 +5,7 @@
       "setup": "",
       "run": "make test",
       "input": "",
-      "output": "",
+      "output": "4 tests successful",
       "comparison": "included",
       "timeout": 30,
       "points": 100
