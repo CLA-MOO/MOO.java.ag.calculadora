@@ -1,8 +1,8 @@
 {
   "tests": [
     {
-      "name": "Compila",
-      "setup": "",
+      "name": "All tests",
+      "setup": "make compile",
       "run": "make test",
       "input": "",
       "output": "4 tests successful",
